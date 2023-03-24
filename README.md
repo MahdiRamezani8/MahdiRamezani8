@@ -23,3 +23,6 @@ Joniur Front-End Developer
 <p align="left">
     <a href="https://www.instagram.com/mahdiramezani_8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  
 <a href="https://www.github.com/MahdiRamezani8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<a href="https://t.me/mahdiramezani_8">
+    <img align="center" src="https://img.icons8.com/color/344/telegram-app--v1.png" alt="linkedin" height="40" width="40" />
+</a>
