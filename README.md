@@ -10,7 +10,7 @@ I'm learning Js
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,ps,tailwind,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,ps,tailwind,scss)](https://skillicons.dev)
 
 ## 🔗 Links
 
