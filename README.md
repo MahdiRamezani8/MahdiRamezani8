@@ -4,7 +4,7 @@ Working on nothing
 ## 🚀 About Me
 
 I'm junior front-End developer \
-I'm learning Js
+I'm learning React Js
 
 
 
