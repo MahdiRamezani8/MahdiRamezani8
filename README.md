@@ -9,7 +9,7 @@ I'm learning React Js
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,ps,tailwind,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,reactjs,nextjs,html,css,git,github,ps,tailwind,scss)](https://skillicons.dev)
 
 ## 🔗 Links
 
