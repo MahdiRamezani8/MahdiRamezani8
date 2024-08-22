@@ -13,9 +13,6 @@ I'm learning React Js
 
 ## 🔗 Links
 
-### Telegram Channel :
-[![linkedin](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CleverDevs) 
-### Youtube Channel :
-[![twitter](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqgreCj7iTFHe2c5pF7WxmQ/)
+[![linkedin](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CleverDevs)  [![twitter](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqgreCj7iTFHe2c5pF7WxmQ/)
 
 
